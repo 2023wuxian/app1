@@ -1,0 +1,4 @@
+sed -i 's/W5pdwY3f9iiaPFkqvsYchROOnLc/DPe6wqtRFiANfRk4153ciEdGn9g/g' /home/DEEPROUTE/zhichenghe/project/chatgpt/web4/myapp4/app/components/sidebar.tsx
+sed -i 's/P2F5w3As6igoXykawiRcmdhKnkb/XJi5wXHE6iwJC9kaT1fc7a1NnTd/g' /home/DEEPROUTE/zhichenghe/project/chatgpt/web4/myapp4/app/components/sidebar.tsx
+sed -i 's/Cq8ywC9t6ib59SkLYkjcUNw9ntd/DJDewdaDcin8tpk9KpTcISzCnmf/g' /home/DEEPROUTE/zhichenghe/project/chatgpt/web4/myapp4/app/components/sidebar.tsx
+sed -i 's/SYVUwUhAViLxFRkuSQKcvQx9nQe/JNAPwRCkYiAVxakv471cRsW3nOg/g' /home/DEEPROUTE/zhichenghe/project/chatgpt/web4/myapp4/app/components/sidebar.tsx
