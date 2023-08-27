@@ -155,8 +155,8 @@ export function SideBar(props: { className?: string }) {
           />
         </a>
       </div>
-/*
-      <div className={styles["sidebar-bar-button"]}>
+
+      {/* <div className={styles["sidebar-bar-button"]}>
         <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/W5pdwY3f9iiaPFkqvsYchROOnLc" target="_blank">
           <IconButton
             icon={<GithubIcon />}
@@ -164,9 +164,9 @@ export function SideBar(props: { className?: string }) {
             shadow
           />
         </a>
-      </div>
+      </div> */}
 
-      <div className={styles["sidebar-bar-button"]}>
+      {/* <div className={styles["sidebar-bar-button"]}>
         <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/P2F5w3As6igoXykawiRcmdhKnkb" target="_blank">
           <IconButton
             icon={<GithubIcon />}
@@ -174,9 +174,9 @@ export function SideBar(props: { className?: string }) {
             shadow
           />
         </a>
-      </div>
+      </div> */}
 
-      <div className={styles["sidebar-bar-button"]}>
+      {/* <div className={styles["sidebar-bar-button"]}>
         <a href="https://prm.chatgptvip.info/" target="_blank">
           <IconButton
             icon={<GithubIcon />}
@@ -184,9 +184,9 @@ export function SideBar(props: { className?: string }) {
             shadow
           />
         </a>
-      </div>
+      </div> */}
 
-      <div className={styles["sidebar-bar-button"]}>
+      {/* <div className={styles["sidebar-bar-button"]}>
         <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/Cq8ywC9t6ib59SkLYkjcUNw9ntd" target="_blank">
           <IconButton
             icon={<GithubIcon />}
@@ -194,9 +194,9 @@ export function SideBar(props: { className?: string }) {
             shadow
           />
         </a>
-      </div>
+      </div> */}
 
-      <div className={styles["sidebar-bar-button"]}>
+      {/* <div className={styles["sidebar-bar-button"]}>
         <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/SYVUwUhAViLxFRkuSQKcvQx9nQe" target="_blank">
           <IconButton
             icon={<GithubIcon />}
@@ -204,8 +204,8 @@ export function SideBar(props: { className?: string }) {
             shadow
           />
         </a>
-      </div>
-*/
+      </div> */}
+
       <div
         className={styles["sidebar-body"]}
         onClick={(e) => {
